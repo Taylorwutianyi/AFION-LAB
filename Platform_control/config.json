@@ -1,0 +1,24 @@
+{
+    "general": {
+        "boosted": "True",
+        "parallel": "False",
+        "random_seed": 24,
+        "sampling_strategies": 2
+    },
+
+    "parameters": [{"name":"gold", "type":"continuous", "low":5.0, "high":15.0},
+                   {"name":"silver", "type":"continuous", "low":5.0, "high":10.0},
+                   {"name":"CTAB", "type":"continuous", "low":5.0, "high":40.0},
+                   {"name":"I-2959", "type":"continuous", "low":10.0, "high":35.0},
+                   {"name":"time", "type":"continuous", "low":5.0, "high":15.0},
+			       {"name":"height", "type":"continuous", "low":3.5, "high":8.5},
+                   {"name":"os", "type":"continuous", "low":5, "high": 7}
+                  ],
+
+    "objectives": [{"name":"area_ratio", "goal":"max", "tolerance":3, "absolute":true},
+                   {"name":"d_wl", "goal":"min", "tolerance":10.0, "absolute":true},
+                   {"name":"FWHM", "goal":"min", "tolerance":0.4, "absolute":false},
+                   {"name":"inten_ratio", "goal":"max", "tolerance":0.0, "absolute":false}
+			       ]
+
+  }
