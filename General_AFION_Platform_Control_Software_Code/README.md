@@ -1,4 +1,4 @@
-## General Platform Control Software Code
+## General AFION Platform Control Software Code
 
 Integration of microfluidic reactors and in-flow spectroscopic NP characterization.
 - Application of machine learning algorithm (Gryffin) for optimization of metal NP synthesis.

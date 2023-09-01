@@ -1,4 +1,4 @@
-## Nanoparticle size measurement
+## NP size measurement code and related distribution analysis
 
 This code is for NP size measurement from Hitachi HT 7700 TEM images. 'NP_size.py' is first used to extract size information of measured nanoparticles, and subsequently 'Histogram.ipynb' is used to generate the histogram plot from the extracted size information.
 
@@ -12,3 +12,5 @@ Additional controls for 'NP_size.py':
 3. Change the parameters on top of the codes.
 
 To generate plot that visualizes the distribution of the length, width, and the aspect ratio of the measured nanoparticles, run 'Histogram.ipynb' in jupyter notebook.
+
+Demo test: the 'long_NR.txt' file
