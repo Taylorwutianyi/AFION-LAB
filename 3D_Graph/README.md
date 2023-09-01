@@ -5,3 +5,5 @@ The project employs a 3D graph visualization technique to unveil intricate relat
 ### Installation
 
 To generate the 3D graphs, run '3D.ipynb' in jupyter notebook.
+
+Demo test: the 'simulated.csv' file has been generated using simulated data based on real experimental data.
