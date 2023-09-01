@@ -5,3 +5,5 @@ The project leverages SHAP (SHapley Additive exPlanations) analysis to interpret
 ### Installation
 
 To generate the SHAP plots, run 'SHAP_analysis.ipynb' in jupyter notebook.
+
+Demo test: the 'simulated.csv' file has been generated using simulated data based on real experimental data.
