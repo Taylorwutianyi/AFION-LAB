@@ -9,7 +9,6 @@ In this program, general AFION platform control package, NP size measurement cod
 - [NP Size Measurement Code and Related Distribution Analysis](#NP-size)
 - [Data Analysis](#data-analysis)
   - [3D Correlation Graph](#3d-graph)
-  - [SHAP Analysis](#shap-analysis)
   - [Variation in Objectives of the Best Recipes for NP Synthesis](#variation-in-best-recipe)
 
 ## Contributing
