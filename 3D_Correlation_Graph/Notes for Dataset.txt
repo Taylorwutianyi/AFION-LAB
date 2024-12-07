@@ -1,0 +1,33 @@
+Column A - "#": number of experiment; 
+	the first 100 experiments are gold nanorods (AuNRs),  
+	the next 80 experiments are alloy nanoparticles(NPs), 
+	the following 35 experiments are core-shell NPs, 
+	and the last 50 experiments are gold nanotetrapods. 
+
+Column B to H: reaction parameters, including:
+	concentration of gold (Au) precursor, 
+	concentration of silver (Ag) precursor, 
+	concentration of surfactant CTAB,
+	concentration of and photoreducing agent I2959,
+	UV irradiation intensity, 
+	reaction time, 
+	and oscillation speed. 
+
+Column I to P: results, including:
+	number of peaks, 
+	1st wavelength peak position (wl1), 
+	full-width at half maximum (FWHM) for the 1st peak (FWHM1), 
+	peak intensity (ISPR1) for the 1st peak. 
+	2nd wavelength peak position (wl2), 
+	FWHM2 dor the 2nd peak, 
+	peak intensity (ISPR2) for the 2nd peak 
+	the peak intensity at 400 nm. 
+
+Column Q: is the "note", in which, 
+	"R" represents AuNRs (2 peaks), 
+	"0" represents no reaction, 
+	"XR" represents no AuNRs being formed as only one single peak being detected, 
+	"S" represents alloy NPs, 
+	"CS" represents core-shell NPs, 
+	"TBD" represents to be determined (something I don't know), 
+	"NT" represents gold nanotetrapods. 
